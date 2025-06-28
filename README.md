@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant.;Let's+get+coding...;Welcome+to+my+GitHub!&center=true&size=28" />
-</p>
+<table>
+<tr>
+<td>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant.;Let's+get+coding...;&center=true&size=28" />
+</td>
+<td>
+  <img src="./video-preview.gif" width="300" />
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/ishant1412">
@@ -21,12 +28,15 @@
 🎓 Passionate Developer who loves building web apps and exploring new technologies.
 
 📫 **How to reach me:**  
-**📧 Email:** [Ishant89572@gmail.com](mailto:Ishant89572@gmail.com)
+📧 [Ishant89572@gmail.com](mailto:Ishant89572@gmail.com)
 
-🌐 **Connect with me:**  
+---
+
+## 🌐 Connect with Me
+
 <p>
   <a href="https://twitter.com/_lets_see__" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -51,18 +61,6 @@
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
 </p>
-
----
-
-## 🎬 Featured Video
-
-<p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ](https://youtube.com/shorts/F6JrqxDDCqg?si=EAlVy5VThAbij-Cv" target="_blank">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch Video" width="500"/>
-  </a>
-</p>
-
-*(Click the thumbnail to watch the video)*
 
 ---
 
