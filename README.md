@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant.;Let's+get+coding...;&center=true&size=28" />
 </td>
 <td>
-  <img src="./luffy-smile--unscreen.gif" width="300" />
+  <img src="./luffy-smile--unscreen (1).gif" width="300" />
 </td>
 </tr>
 </table>
