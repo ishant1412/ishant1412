@@ -5,7 +5,7 @@
 <div style="display: flex; font-family: Georgia, 'Times New Roman', Times, serif;">
 
 Creating is one thing i dont get lazy at  <div style="width: 25px; height: 25px; border-radius: 5px;">
- <img  style="width: 50px; height: 50px; border-radius: 50px;" src="./cat.gif" alt="">
+ <img  style="width: 50px; height: 50px; " src="./cat.gif" alt="">
 
 </div>
 </div>
