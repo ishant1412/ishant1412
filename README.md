@@ -18,22 +18,22 @@ Creating is one thing i dont get lazy at     . </p>  <div style="width: 25px; he
 
 
 <div style="display: flex;">
-<p>
+
   <a href="https://twitter.com/_lets_see__" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
 
-<p>
+    
+
     <a href="https://www.linkedin.com/in/ishant-khatri-1523b7283/">
         <img   style="width: 85px; height: 27px; border: 1px black solid; margin-left: 4px ; border-radius: 2px;"   src="./linkedin.png" alt="">
     </a>
-</p>
-<p>
+
+
     <a href="">
         <img  style="height: 29px; width: 29px; margin-left: 3px; border-radius: 10px;" src="./insta.jpeg" alt="">
     </a>
-</p>
+
 </div>
 </div>
 
