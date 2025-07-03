@@ -2,10 +2,10 @@
  <div display="style="display: flex;  > 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant.;Let's+get+coding...;&center=true&size=28" />
 </div>
-<div style="display: flex;">
-<p style="font-family: Georgia, 'Times New Roman', Times, serif;">
-Creating is one thing i dont get lazy at     . </p>  <div style="width: 25px; height: 25px; border-radius: 5px;">
- <img  style="width: 25px; height: 25px; border-radius: 5px;" src="./cat.gif" alt="">
+<div style="display: flex; font-family: Georgia, 'Times New Roman', Times, serif;">
+
+Creating is one thing i dont get lazy at  <div style="width: 25px; height: 25px; border-radius: 5px;">
+ <img  style="width: 50px; height: 50px; border-radius: 50px;" src="./cat.gif" alt="">
 
 </div>
 </div>
