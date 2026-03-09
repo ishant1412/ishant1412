@@ -1,6 +1,6 @@
 
  <div display="style="display: flex;  > 
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ishant.;Let's+get+coding...;&center=true&size=28" />
+  
 </div>
 <div style="display: flex; font-family: Georgia, 'Times New Roman', Times, serif;">
 
