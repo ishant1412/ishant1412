@@ -24,31 +24,31 @@
 
 ---
 
-## 👋 &nbsp;Hey, I'm Ishant!
+##  &nbsp;Hey, I'm Ishant!
 
 I'm a **Full Stack Developer** who genuinely loves building things — web apps, side projects, anything that starts as an idea and ends up as something real. I don't wait for motivation; I just open my editor and start.
 
-- 🔭 &nbsp;Currently building my **Second Brain App** (mentored by Harkirat Singh)
-- 🌱 &nbsp;Deepening skills in **TypeScript, System Design & DSA**
-- ⚡ &nbsp;I genuinely don't procrastinate when it comes to building — it's the one area I'm always switched on
-- 📫 &nbsp;Reach me at **ishant89572@gmail.com**
+-  &nbsp;Currently building my **Second Brain App** (mentored by Harkirat Singh)
+-  &nbsp;Deepening skills in **TypeScript, System Design & DSA**
+-  &nbsp;I genuinely don't procrastinate when it comes to building — it's the one area I'm always switched on
+-  &nbsp;Reach me at **ishant89572@gmail.com**
 
 ---
 
-## 🚀 &nbsp;Featured Projects
+##  &nbsp;Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
-| 🧠 **Second Brain App** | A personal knowledge base to capture and organize everything you learn | `React` `Node.js` `MongoDB` `TypeScript` |
-| 🔧 **More coming soon...** | Always cooking something | Stay tuned |
+| **Second Brain App** | A personal knowledge base to capture and organize everything you learn | `React` `Node.js` `MongoDB` `TypeScript` |
+|  **More coming soon...** | Always cooking something | Stay tuned |
 
 </div>
 
 ---
 
-## 🛠️ &nbsp;Tech Stack
+##  &nbsp;Tech Stack
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I'm a **Full Stack Developer** who genuinely loves building things — web apps,
 
 ---
 
-## 📊 &nbsp;GitHub Stats
+## &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I'm a **Full Stack Developer** who genuinely loves building things — web apps,
 
 ---
 
-## 🏆 &nbsp;Trophies
+## &nbsp;Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ishant1412&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
@@ -109,7 +109,7 @@ I'm a **Full Stack Developer** who genuinely loves building things — web apps,
 
 ---
 
-## 📈 &nbsp;Activity Graph
+## &nbsp;Activity Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ishant1412&bg_color=0d1117&color=8b5cf6&line=6366f1&point=ec4899&area=true&hide_border=true&area_color=6366f1" />
